@@ -1,0 +1,36 @@
+{
+    "name": "quantum-pro",
+    "displayName": "Quantum Pro",
+    "description": "Designed For The Pros",
+    "version": "0.0.1",
+    "publisher": "ArnavJain",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "keywords": [
+        "quantum theme",
+        "quantum pro",
+        "quantum pro theme",
+        "pro themes",
+        "pro theme",
+        "soothing theme"
+    ],
+    "scripts": {
+        "publish": "vsce publish"
+      },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quantum Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quantum Pro-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "publisherDisplayName": "Arnav Jain"
+      }
+}
