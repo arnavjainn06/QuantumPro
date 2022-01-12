@@ -2,7 +2,7 @@
     "name": "quantum-pro",
     "displayName": "Quantum Pro",
     "description": "Designed For The Pros",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "ArnavJain",
     "repository": {
         "type": "git",
@@ -17,7 +17,8 @@
         "quantum pro theme",
         "pro themes",
         "pro theme",
-        "soothing theme"
+        "soothing theme",
+        "quantum"
     ],
     "scripts": {
         "publish": "vsce publish"
