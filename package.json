@@ -2,8 +2,12 @@
     "name": "quantum-pro",
     "displayName": "Quantum Pro",
     "description": "Designed For The Pros",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "ArnavJain",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arnavjainn06/QuantumPro"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -21,6 +25,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "assets/logo.png",
     "contributes": {
         "themes": [
             {
